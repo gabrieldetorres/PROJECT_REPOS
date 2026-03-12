@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="ClassLibrary1/ClassLibrary1.csproj" Id="b380325f-18ae-4e08-8253-d3d98d39930c" />
   <Project Path="Flip-vs.csproj" Id="b7225cee-ecee-4c9b-80ae-1c6722d819f7" />
 </Solution>
